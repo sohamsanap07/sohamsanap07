@@ -2,6 +2,8 @@
 
 ### A passionate Java developer
 
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+
 
 - 🔭 **I am building a Spring Boot project called the Club Expense Manager. Its purpose is to help revenue managers simply manage and organize all club expenses on a single platform.**
 
