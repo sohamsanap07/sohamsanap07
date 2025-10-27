@@ -2,9 +2,8 @@
 
 ### A passionate Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsanap07&label=Profile views&color=0e75b6&style=flat" alt="sohamsanap07" /> </p>
 
-- 🔭 I'm currently working on **I am building a Spring Boot project called the Club Expense Manager. Its purpose is to help revenue managers simply manage and organize all club expenses on a single platform.**
+- 🔭 **I am building a Spring Boot project called the Club Expense Manager. Its purpose is to help revenue managers simply manage and organize all club expenses on a single platform.**
 
 - 🌱 I'm currently learning **Docker and simultaneously practicing data structures.**
 
